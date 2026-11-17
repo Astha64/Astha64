@@ -92,16 +92,6 @@ I'm working my way from **Artificial Intelligence** fundamentals through **Large
 ---
 
 
----
-
-## 🌌 Contribution Galaxy
-
-<p align="center">
-  <img src="./contribution-galaxy.svg" alt="Contribution Galaxy" width="100%" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
