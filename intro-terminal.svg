@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="800" height="300" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect width="800" height="40" rx="14" fill="#161b22"/>
+  <rect y="26" width="800" height="14" fill="#161b22"/>
+  <circle cx="24" cy="20" r="7" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="7" fill="#ffbd2e"/>
+  <circle cx="68" cy="20" r="7" fill="#27c93f"/>
+  <text x="400" y="25" font-family="Fira Code, monospace" font-size="13" fill="#8b949e" text-anchor="middle">astha@portfolio: ~</text>
+
+  <g font-family="Fira Code, Consolas, monospace" font-size="18">
+    <text x="30" y="85" fill="#39ff14" opacity="0">$ whoami
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="30" y="115" fill="#e6edf3" opacity="0">&gt; Astha Thakur
+      <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="30" y="155" fill="#39ff14" opacity="0">$ role
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="30" y="185" fill="#36bcf7" opacity="0">&gt; AI/ML Developer | Full-Stack Builder
+      <animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="30" y="225" fill="#39ff14" opacity="0">$ currently_building
+      <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.4s" fill="freeze"/>
+    </text>
+    <text x="30" y="255" fill="#e6edf3" opacity="0">&gt; AI-powered applications_
+      <animate attributeName="opacity" from="0" to="1" begin="5s" dur="0.4s" fill="freeze"/>
+    </text>
+    <rect x="395" y="240" width="10" height="20" fill="#39ff14" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" begin="5.4s" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
