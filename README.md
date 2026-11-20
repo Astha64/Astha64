@@ -1,30 +1,14 @@
-
-# 👋 Hi, I'm Astha Thakur
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=AI%2FML+Developer;Building+AI-Powered+Applications;Problem+Solver)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+  <img src="intro-terminal.svg" alt="Astha Thakur - AI/ML Developer" width="85%"/>
 </p>
 
 <p align="center">
   <b>Building intelligent systems at the intersection of AI, software and real-world problems.</b>
 </p>
 
-![Lo-fi Coding Room](.github/lofi-pixel-coding.gif)
-
-<!-- SOCIAL LINKS -->
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/asthathakur09/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:thakurastha898@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src=".github/lofi-pixel-coding.gif" alt="Lo-fi Coding Room" width="80%"/>
 </p>
-
----
 
 ## 🧠 About Me
 
@@ -62,14 +46,6 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
-
----
-
-## 💻 A Little Terminal Magic
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&height=200&lines=%24+whoami;%3E+AI%2FML+Developer;%24+interests;%3E+Artificial+Intelligence;%3E+Machine+Learning;%3E+Full+Stack+Development;%24+currently_building;%3E+AI-powered+applications;%24+echo+%22Let's+build+something+useful.%22" alt="Terminal Magic" />
 </p>
 
 ---
