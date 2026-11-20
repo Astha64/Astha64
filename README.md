@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Astha Thakur
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=700&lines=AI%2FML+Developer;Building+AI-Powered+Applications;Problem+Solver)](https://git.io/typing-svg)
@@ -9,6 +10,10 @@
 <p align="center">
   <b>Building intelligent systems at the intersection of AI, software and real-world problems.</b>
 </p>
+
+![Lo-fi Coding Room](.github/lofi-pixel-coding.gif)
+
+<!-- SOCIAL LINKS -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asthathakur09/">
@@ -25,7 +30,7 @@
 
 I'm a developer interested in building practical software solutions using **Artificial Intelligence, Machine Learning and Full-Stack Development**.
 
-I enjoy turning ideas into working products, experimenting with emerging technologies, participating in hackathons and continuously improving my problem-solving skills. My work spans intelligent agents, LLM-powered applications, and full-stack systems — from APIs and databases to user-facing interfaces.
+I enjoy turning ideas into working products, experimenting with emerging technologies, participating in hackathons and continuously improving my problem-solving skills. My work spans intelligent agents, LLM-powered applications, and full-stack systems, from APIs and databases to user-facing interfaces.
 
 ---
 
@@ -44,6 +49,7 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 </p>
 
 **Exploring:**
+
 `Artificial Intelligence` · `Machine Learning` · `LLM Applications` · `AI Agents` · `Generative AI`
 
 ### 🌐 Web Development
@@ -70,16 +76,13 @@ I enjoy turning ideas into working products, experimenting with emerging technol
 
 ## 🔨 Currently Building
 
-🤖 AI-powered applications · 🧠 Intelligent AI agents · 🌐 Full-stack systems · 🚀 Turning hackathon ideas into working products
+🤖 AI-powered applications · 🧠 Intelligent AI agents · 🌐 Full-stack systems · 🚀 Turning ideas into working products
 
 ---
 
 ## 📚 Currently Learning
 
 I'm working my way from **Artificial Intelligence** fundamentals through **Large Language Models**, **AI Agents**, and **Generative AI**, toward building production-ready AI systems. I'm particularly interested in understanding not just how AI models work, but how to turn them into useful, reliable applications.
-
----
-
 
 ---
 
@@ -91,16 +94,11 @@ I'm working my way from **Artificial Intelligence** fundamentals through **Large
 
 ---
 
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Astha64/Astha64/output/github-contribution-grid-snake.svg" width="95%"/>
 </p>
-
----
-
-
 
 ---
 
@@ -147,7 +145,7 @@ Turning ideas into working prototypes.
 
 ## 🌱 Philosophy
 
-Don't just learn technology — understand it, build with it, break things, fix them, and build something better.
+Don't just learn technology. Understand it, build with it, break things, fix them, and build something better.
 
 ---
 
@@ -161,8 +159,6 @@ Don't just learn technology — understand it, build with it, break things, fix 
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
